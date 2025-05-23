@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "product_id": 1,
+      "product_url": "iphonese",
+      "product_name": "iphone SE",
+      "description_id": 1,
+      "product_brief_description": "Lots to love. Less to spend.",
+      "product_description": "iPhone SE packs our most powerful chip into our most popular size at our most affordable price. Itâ€™s just what youâ€™ve been waiting for.",
+      "product_img": "https://applescoop.org/image/story/a-concept-rendering-of-apples-upcoming-iphone-se-4-showcasing-new-colors-applescoop-2024-10-20-23-28-21.png",
+      "product_link": "img",
+      "price_id": 1,
+      "starting_price": "$339",
+      "price_range": "From $9.54/mo. or $229 with trade-in.*"
+    },
+    {
+      "product_id": 2,
+      "product_url": "iphone13pro",
+      "product_name": "iPhone 13 Pro",
+      "description_id": 2,
+      "product_brief_description": "Lots to love. Less to spend.",
+      "product_description": "You can either pay for your new iPhone in full or pay monthly with carrier financing, iPhone Payments, the iPhone Upgrade Program, and now Apple Card Monthly Installments. Your carrier service plan will be charged separately. Just choose the option that w",
+      "product_img": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone13-green-hero-2up-220308_big_carousel.jpg.slideshow-medium.jpg",
+      "product_link": "imgs",
+      "price_id": 2,
+      "starting_price": "$449",
+      "price_range": "From $18.70/mo. or $449 with trade-in.*"
+    },
+    {
+      "product_id": 3,
+      "product_url": "iphone15pro",
+      "product_name": "iPhone 15 Pro",
+      "description_id": 3,
+      "product_brief_description": "Lots to love. Less to spend.",
+      "product_description": "A transformative tripleâ€‘camera system that adds tons of capability without complexity. An unprecedented leap in battery life. And a mindâ€‘blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to t",
+      "product_img": "https://fonezone.me/cdn/shop/articles/DALL_E_2024-07-22_23.13.41_-_A_brand_new_Apple_iPhone_15_Pro_Max_with_1000GB_storage_in_black_titanium_placed_next_to_its_sleek_unopened_box._The_iPhone_is_displayed_upright_sh.webp?v=1721671946",
+      "product_link": "imgs",
+      "price_id": 3,
+      "starting_price": "$449",
+      "price_range": "From $28.29/mo. or $679 with trade-in.*"
+    },
+    {
+      "product_id": 4,
+      "product_url": "iPhone16Pro",
+      "product_name": "iPhone 16 Pro",
+      "description_id": 4,
+      "product_brief_description": "Meet the iPhone 16 family.",
+      "product_description": "Built for Apple Intelligence.",
+      "product_img": "https://media.assettype.com/indulgexpress%2F2025-05-17%2Fm1t84fwc%2FGqq2tTOWIAAXUC.jpg?w=640&auto=format%2Ccompress",
+      "product_link": "iPhone",
+      "price_id": 4,
+      "starting_price": "$989",
+      "price_range": "From $999 or $41.62/mo.per month for 24 mo.monthsFootnote*"
+    }
+  ]
+}
