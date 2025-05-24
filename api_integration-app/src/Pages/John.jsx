@@ -3,7 +3,7 @@ import React from 'react'
 function John() {
   return (
     <div>
-      hellow brooooooo
+      <h1>John</h1>
     </div>
   )
 }
